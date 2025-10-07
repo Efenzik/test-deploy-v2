@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/script.js"],"sourcesContent":["var $b63be9b0371e788c$exports = {};\nconsole.log(\"123\");\n\n\n//# sourceMappingURL=test-deploy-v2.9cc23c41.js.map\n","console.log(\"123\");\r\n"],"names":["console","log"],"version":3,"file":"test-deploy-v2.9cc23c41.js.map"}

@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["test-deploy-v2.e6f4aa94.css","src/css/style.css"],"sourcesContent":["body {\n  color: green;\n  background-color: #000;\n}\n/*# sourceMappingURL=test-deploy-v2.e6f4aa94.css.map */\n","body {\r\n  background-color: black;\r\n  color: green;\r\n}\r\n"],"names":[],"version":3,"file":"test-deploy-v2.e6f4aa94.css.map"}
